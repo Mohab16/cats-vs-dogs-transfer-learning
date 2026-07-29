@@ -81,10 +81,4 @@ Use the helper in `src/predictions.py` for single-image predictions. Example in 
 - Export to TensorFlow Lite for mobile/edge
 - Add a simple Flask/FastAPI inference endpoint for serving predictions
 
-## License & Contact
 
-This project is provided as-is for educational purposes. Open an issue or contact the repository owner for questions or collaboration.
-
----
-
-If you want, I can also generate a short `USAGE.md` or add a CLI entrypoint for convenient training and evaluation.
